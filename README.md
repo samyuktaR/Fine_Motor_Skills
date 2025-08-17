@@ -1,2 +1,2 @@
 # Fine_Motor_Skills
-Project to create a game to help children and stroke patients develop fine motor skills.
+Game application designed to help children and stroke patients improve fine motor skills through interactive exercises.
